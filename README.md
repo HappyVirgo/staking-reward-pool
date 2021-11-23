@@ -5,6 +5,8 @@ Total amount of TET will be used for reward.
 
 Here useful commands for using this repo
 ```javascript
-npm install
-npx
+npm install //install packages
+npx hardhat compile //compile solidity files
+npx hardhat test //test contracts
+node scripts/deploy.js //deploy the contract
 ```
